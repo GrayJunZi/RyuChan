@@ -48,9 +48,9 @@ site:
       title: Cloud Music
       subtitle: 沉浸式享受音乐时光
   meting:
-    server: kugou
-    id: 3znwo99fz2vz017
-    br: '128'
+    server: netease
+    id: '17933567326'
+    br: '400'
     trans: true
   menu:
     - id: home
