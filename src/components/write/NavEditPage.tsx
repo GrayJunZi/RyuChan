@@ -1,10 +1,10 @@
 'use client'
 
-import { useEffect, useState, useRef, useMemo } from 'react'
+import { useState, useRef, useMemo } from 'react'
 import { toast, Toaster } from 'sonner'
 import { useAuthStore } from './hooks/use-auth'
 import { readFileAsText } from '@/lib/file-utils'
-import { loadNavigationFromGitHub, saveNavigationToGitHub } from './services/navigation-service'
+import { saveNavigationToGitHub } from './services/navigation-service'
 import type { NavCategory, NavItem } from '@/data/navData'
 
 type Props = { initialNavData?: NavCategory[] }
@@ -21,9 +21,7 @@ export default function NavEditPage({ initialNavData = [] }: Props) {
   const [navData, setNavData] = useState<NavCategory[]>(initialNavData)
   const [originalNavData, setOriginalNavData] = useState<NavCategory[]>(JSON.parse(JSON.stringify(initialNavData)))
   const [globalEditMode, setGlobalEditMode] = useState(false)
-  const [loading, setLoading] = useState(false)
   const [saving, setSaving] = useState(false)
-  const [dataLoaded, setDataLoaded] = useState(false)
   const [pendingAvatars, setPendingAvatars] = useState<Record<string, PendingAvatar>>({})
   const [searchQuery, setSearchQuery] = useState('')
   const [activeFilter, setActiveFilter] = useState('all')
@@ -56,18 +54,8 @@ export default function NavEditPage({ initialNavData = [] }: Props) {
   const [iconSearchResults, setIconSearchResults] = useState<string[]>([])
   const [iconSearching, setIconSearching] = useState(false)
   const [iconSearchTarget, setIconSearchTarget] = useState<'badge' | 'cover'>('badge')
-  const iconSearchTimer = useRef<ReturnType<typeof setTimeout> | undefined>(undefined)
+  const iconSearchTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
 
-  useEffect(() => { loadData() }, [])
-
-  const loadData = async () => {
-    try {
-      setLoading(true)
-      const data = await loadNavigationFromGitHub()
-      if (data.length > 0) { setNavData(data); setOriginalNavData(JSON.parse(JSON.stringify(data))) }
-      setDataLoaded(true)
-    } catch { setDataLoaded(true) } finally { setLoading(false) }
-  }
 
   // === Derived data ===
   const flatItems: FlatItem[] = useMemo(
@@ -94,7 +82,7 @@ export default function NavEditPage({ initialNavData = [] }: Props) {
   const hasChanges = () => JSON.stringify(navData) !== JSON.stringify(originalNavData) || Object.keys(pendingAvatars).length > 0
 
   // === Global Edit ===
-  const handleEnterEditMode = () => setGlobalEditMode(true)
+  const handleEnterEditMode = () => { setGlobalEditMode(true) }
 
   const handleCancelGlobal = () => {
     if (hasChanges() && !window.confirm('你有未保存的更改，确定要取消吗？所有修改将丢失。')) return
@@ -132,10 +120,6 @@ export default function NavEditPage({ initialNavData = [] }: Props) {
     } else {
       setNavData(prev => prev.map((c, i) => i === 0 ? { ...c, items: [...c.items, item] } : c))
     }
-  }
-
-  const updateItem = (catIndex: number, itemIndex: number, field: keyof NavItem, value: string) => {
-    setNavData(prev => prev.map((c, ci) => ci === catIndex ? { ...c, items: c.items.map((item, ii) => ii === itemIndex ? { ...item, [field]: value } : item) } : c))
   }
 
   const removeItem = (catIndex: number, itemIndex: number) => {
@@ -297,7 +281,7 @@ export default function NavEditPage({ initialNavData = [] }: Props) {
   const handleIconSearchInput = (val: string, target: 'badge' | 'cover') => {
     setIconSearchTarget(target)
     setIconSearchQuery(val)
-    clearTimeout(iconSearchTimer.current)
+    if (iconSearchTimer.current) clearTimeout(iconSearchTimer.current)
     iconSearchTimer.current = setTimeout(() => searchIconify(val), 350)
   }
 
@@ -315,8 +299,6 @@ export default function NavEditPage({ initialNavData = [] }: Props) {
   }
 
   const inputCls = 'input input-sm input-bordered w-full bg-base-100 focus:border-primary text-sm'
-  const textareaCls = 'textarea textarea-bordered w-full bg-base-100 focus:border-primary text-sm leading-relaxed resize-none'
-  const labelCls = 'block text-xs font-semibold text-base-content/60 mb-1.5'
 
   const svg = {
     search: <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-base-content/40"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>,
@@ -391,16 +373,11 @@ export default function NavEditPage({ initialNavData = [] }: Props) {
 
   // ======================== RENDER ========================
 
-  if (loading && !dataLoaded) {
-    return <div className="flex h-64 items-center justify-center text-base-content/50"><span className="loading loading-spinner loading-lg text-primary" /></div>
-  }
-
   const renderFormFields = (
     item: Partial<NavItem>,
     setItem: (updater: (prev: Partial<NavItem>) => Partial<NavItem>) => void,
     avatarPreview: string,
     avatarRef: React.RefObject<HTMLInputElement | null>,
-    onAvatarFile: (e: React.ChangeEvent<HTMLInputElement>) => void,
     categoryMode: 'select' | 'custom',
     setCategoryMode: (m: 'select' | 'custom') => void,
     categoryCustom: string,
@@ -608,7 +585,7 @@ export default function NavEditPage({ initialNavData = [] }: Props) {
             <button onClick={closeAddPage} className="btn btn-ghost btn-sm gap-2 rounded-xl mb-6">{svg.arrowLeft} 返回导航列表</button>
             <div className="bg-base-100 rounded-3xl p-6 md:p-10 shadow-lg border border-base-200">
               <h2 className="text-2xl font-bold mb-8 flex items-center gap-2 text-primary">{svg.plus}<span>添加导航项目</span></h2>
-              {renderFormFields(addItem, fn => setAddItem(fn), addAvatarPreview, addAvatarRef, handleAddAvatarFile, addCategoryMode, setAddCategoryMode, addCategoryCustom, setAddCategoryCustom, filterCategories, categoryDropdownOpen, setCategoryDropdownOpen)}
+              {renderFormFields(addItem, fn => setAddItem(fn), addAvatarPreview, addAvatarRef, addCategoryMode, setAddCategoryMode, addCategoryCustom, setAddCategoryCustom, filterCategories, categoryDropdownOpen, setCategoryDropdownOpen)}
               <div className="flex gap-3 mt-8">
                 <button onClick={closeAddPage} className="btn btn-ghost flex-1 rounded-xl">取消</button>
                 <button onClick={submitAddPage} className="btn btn-primary flex-1 rounded-xl shadow-lg shadow-primary/20 font-semibold text-base">添加</button>
@@ -631,7 +608,7 @@ export default function NavEditPage({ initialNavData = [] }: Props) {
             <button onClick={closeEditPage} className="btn btn-ghost btn-sm gap-2 rounded-xl mb-6">{svg.arrowLeft} 返回导航列表</button>
             <div className="bg-base-100 rounded-3xl p-6 md:p-10 shadow-lg border border-base-200">
               <h2 className="text-2xl font-bold mb-8 flex items-center gap-2 text-primary">{svg.edit}<span>编辑导航项目</span></h2>
-              {renderFormFields(editItem, fn => setEditItem(fn), editAvatarPreview, editAvatarRef, handleEditAvatarFile, editCategoryMode, setEditCategoryMode, editCategoryCustom, setEditCategoryCustom, filterCategories, categoryDropdownOpen, setCategoryDropdownOpen)}
+              {renderFormFields(editItem, fn => setEditItem(fn), editAvatarPreview, editAvatarRef, editCategoryMode, setEditCategoryMode, editCategoryCustom, setEditCategoryCustom, filterCategories, categoryDropdownOpen, setCategoryDropdownOpen)}
               <div className="flex gap-3 mt-8">
                 <button onClick={closeEditPage} className="btn btn-ghost flex-1 rounded-xl">取消</button>
                 <button onClick={submitEditPage} className="btn btn-primary flex-1 rounded-xl shadow-lg shadow-primary/20 font-semibold text-base">保存修改</button>

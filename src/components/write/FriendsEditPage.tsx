@@ -1,10 +1,10 @@
 'use client'
 
-import { useEffect, useState, useRef } from 'react'
+import { useState, useRef } from 'react'
 import { toast, Toaster } from 'sonner'
 import { useAuthStore } from './hooks/use-auth'
 import { readFileAsText } from '@/lib/file-utils'
-import { loadFriendsFromGitHub, saveFriendsToGitHub } from './services/friends-service'
+import { saveFriendsToGitHub } from './services/friends-service'
 import type { FriendItem } from '@/interface/friend'
 
 type FriendEditState = FriendItem & { _draft?: boolean }
@@ -19,35 +19,13 @@ export default function FriendsEditPage({ initialFriends = [] }: Props) {
     JSON.parse(JSON.stringify(initialFriends))
   )
   const [globalEditMode, setGlobalEditMode] = useState(false)
-  const [loading, setLoading] = useState(false)
   const [saving, setSaving] = useState(false)
   const [editingIndex, setEditingIndex] = useState<number | null>(null)
-  const [dataLoaded, setDataLoaded] = useState(false)
   const [pendingAvatars, setPendingAvatars] = useState<Record<number, { file: File; previewUrl: string }>>({})
   const [avatarTargetIndex, setAvatarTargetIndex] = useState<number | null>(null)
   const { isAuth, setPrivateKey } = useAuthStore()
   const keyInputRef = useRef<HTMLInputElement>(null)
   const avatarInputRef = useRef<HTMLInputElement>(null)
-
-  useEffect(() => {
-    loadData()
-  }, [])
-
-  const loadData = async () => {
-    try {
-      setLoading(true)
-      const data = await loadFriendsFromGitHub()
-      if (data.length > 0) {
-        setFriends(data)
-        setOriginalFriends(JSON.parse(JSON.stringify(data)))
-      }
-      setDataLoaded(true)
-    } catch {
-      setDataLoaded(true)
-    } finally {
-      setLoading(false)
-    }
-  }
 
   const hasChanges = () => {
     return JSON.stringify(friends) !== JSON.stringify(originalFriends) || Object.keys(pendingAvatars).length > 0
@@ -468,11 +446,7 @@ export default function FriendsEditPage({ initialFriends = [] }: Props) {
         </p>
       </div>
 
-      {loading && !dataLoaded ? (
-        <div className="flex h-64 items-center justify-center text-base-content/50">
-          <span className="loading loading-spinner loading-lg text-primary" />
-        </div>
-      ) : friends.length > 0 ? (
+      {friends.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
           {friends.map((friend, index) => {
             const isEditing = editingIndex === index

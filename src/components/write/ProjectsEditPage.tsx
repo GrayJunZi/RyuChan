@@ -1,10 +1,10 @@
 'use client'
 
-import { useEffect, useState, useRef } from 'react'
+import { useState, useRef } from 'react'
 import { toast, Toaster } from 'sonner'
 import { useAuthStore } from './hooks/use-auth'
 import { readFileAsText } from '@/lib/file-utils'
-import { loadProjectsFromGitHub, saveProjectsToGitHub } from './services/projects-service'
+import { saveProjectsToGitHub } from './services/projects-service'
 import type { ProjectItem } from '@/interface/project'
 
 type ProjectEditState = ProjectItem & { _draft?: boolean }
@@ -19,35 +19,13 @@ export default function ProjectsEditPage({ initialProjects = [] }: Props) {
     JSON.parse(JSON.stringify(initialProjects))
   )
   const [globalEditMode, setGlobalEditMode] = useState(false)
-  const [loading, setLoading] = useState(false)
   const [saving, setSaving] = useState(false)
   const [editingIndex, setEditingIndex] = useState<number | null>(null)
-  const [dataLoaded, setDataLoaded] = useState(false)
   const [pendingAvatars, setPendingAvatars] = useState<Record<number, { file: File; previewUrl: string }>>({})
   const [avatarTargetIndex, setAvatarTargetIndex] = useState<number | null>(null)
   const { isAuth, setPrivateKey } = useAuthStore()
   const keyInputRef = useRef<HTMLInputElement>(null)
   const avatarInputRef = useRef<HTMLInputElement>(null)
-
-  useEffect(() => {
-    loadData()
-  }, [])
-
-  const loadData = async () => {
-    try {
-      setLoading(true)
-      const data = await loadProjectsFromGitHub()
-      if (data.length > 0) {
-        setProjects(data)
-        setOriginalProjects(JSON.parse(JSON.stringify(data)))
-      }
-      setDataLoaded(true)
-    } catch {
-      setDataLoaded(true)
-    } finally {
-      setLoading(false)
-    }
-  }
 
   const hasChanges = () => {
     return JSON.stringify(projects) !== JSON.stringify(originalProjects) || Object.keys(pendingAvatars).length > 0
@@ -357,19 +335,51 @@ export default function ProjectsEditPage({ initialProjects = [] }: Props) {
   }
 
   // ====== Render tags ======
+  const [editingTagInputs, setEditingTagInputs] = useState<Record<number, string>>({})
+
   const renderTags = (project: ProjectEditState, index: number, isEditing: boolean) => {
     if (isEditing) {
-      const tagsInput = Array.isArray(project.tags) ? project.tags.join(', ') : ''
+      const currentTags = Array.isArray(project.tags) ? project.tags : []
+      const tagInput = editingTagInputs[index] || ''
+
+      const addTag = (value: string) => {
+        const tag = value.trim()
+        if (!tag || currentTags.includes(tag)) return
+        updateProject(index, 'tags', [...currentTags, tag])
+        setEditingTagInputs(prev => ({ ...prev, [index]: '' }))
+      }
+
+      const removeTag = (tagIndex: number) => {
+        updateProject(index, 'tags', currentTags.filter((_, i) => i !== tagIndex))
+      }
+
+      const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+        if (e.key === 'Enter') {
+          e.preventDefault()
+          addTag(tagInput)
+        } else if (e.key === 'Backspace' && !tagInput && currentTags.length > 0) {
+          removeTag(currentTags.length - 1)
+        }
+      }
+
       return (
-        <input
-          placeholder="标签，用逗号分隔"
-          className="input input-sm input-bordered w-full bg-base-100 focus:border-primary text-sm mt-2"
-          value={tagsInput}
-          onChange={e => {
-            const tags = e.target.value.split(',').map(t => t.trim()).filter(Boolean)
-            updateProject(index, 'tags', tags)
-          }}
-        />
+        <div className="flex flex-wrap gap-1.5 mt-2 p-2 rounded-xl border border-base-200 bg-base-100 focus-within:border-primary transition-colors">
+          {currentTags.map((tag: string, ti: number) => (
+            <span key={ti} className="inline-flex items-center gap-0.5 text-xs font-medium text-primary bg-primary/10 rounded-lg pl-2 pr-1 py-1">
+              {tag}
+              <button type="button" onClick={() => removeTag(ti)} className="shrink-0 p-0.5 rounded-md hover:bg-primary/20 transition-colors">
+                <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+              </button>
+            </span>
+          ))}
+          <input
+            placeholder={currentTags.length === 0 ? '输入标签，回车添加' : '添加标签...'}
+            className="flex-1 min-w-[80px] bg-transparent text-sm outline-none border-none py-0.5"
+            value={tagInput}
+            onChange={e => setEditingTagInputs(prev => ({ ...prev, [index]: e.target.value }))}
+            onKeyDown={handleKeyDown}
+          />
+        </div>
       )
     }
     if (!project.tags || project.tags.length === 0) return null
@@ -549,11 +559,7 @@ export default function ProjectsEditPage({ initialProjects = [] }: Props) {
         </p>
       </div>
 
-      {loading && !dataLoaded ? (
-        <div className="flex h-64 items-center justify-center text-base-content/50">
-          <span className="loading loading-spinner loading-lg text-primary" />
-        </div>
-      ) : projects.length > 0 ? (
+      {projects.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
           {projects.map((project, index) => {
             const isEditing = editingIndex === index
