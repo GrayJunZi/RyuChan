@@ -1,7 +1,3 @@
-# Navigation page data
-# Edit this file to manage the resources shown on the /navigation page.
-# Each category has: title, icon, items
-
 - title: 开发工具
   icon: lucide:code
   items:
@@ -9,16 +5,16 @@
       avatar: https://img.131714.xyz/file/Logo/1753850918996_umami.png
       description: 网站访问统计分析平台
       url: https://umami.is/dashboard
-      category: 统计分析
+      category: 开发工具
       id: DEV001
-      badge: 推荐使用
+      badge: 强烈推荐
       badgeIcon: lucide:thumbs-up
-      badgeColor: rose
+      badgeColor: '#f264cc'
     - name: Vercel
       avatar: https://img.131714.xyz/file/Logo/1753851435981_Vercel.png
       description: 现代化的前端部署平台
       url: https://vercel.com/login?next=%2Fkobaridevs-projects
-      category: 部署托管
+      category: 开发工具
       id: DEV002
       badge: Astro 官方推荐
       badgeIcon: lucide:star
@@ -27,7 +23,7 @@
       avatar: https://iconify.design/favicon.ico
       description: 海量图标库和图标搜索工具
       url: https://iconify.design/
-      category: 图标设计
+      category: 开发工具
       id: DEV003
       badge: 图标资源
       badgeIcon: lucide:image
@@ -36,7 +32,7 @@
       avatar: https://img.131714.xyz/file/Logo/DEPF9Ovv.png
       description: 阿里巴巴图标库
       url: https://www.iconfont.cn/
-      category: 图标设计
+      category: 开发工具
       id: DEV004
       badge: 国内访问更快
       badgeIcon: lucide:globe
@@ -45,7 +41,7 @@
       avatar: https://shields.io/img/logo.png
       description: 为项目生成各种徽章
       url: https://shields.io/
-      category: 徽章工具
+      category: 开发工具
       id: DEV005
       badge: GitHub 项目必备
       badgeIcon: lucide:shield-check
@@ -54,7 +50,7 @@
       avatar: https://picbed.131714.xyz/picbed/20250726225237829.png
       description: 微软的用户行为分析工具
       url: https://clarity.microsoft.com/
-      category: 用户分析
+      category: 开发工具
       id: DEV006
       badge: 企业级分析
       badgeIcon: lucide:bar-chart-3
@@ -75,7 +71,7 @@
       avatar: https://www.cloudflare.com/favicon.ico
       description: 全球领先的CDN和安全服务
       url: https://dash.cloudflare.com/login
-      category: 域名托管服务
+      category: 域名管理
       id: SRV002
       badge: 性能和安全兼备
       badgeIcon: lucide:shield
@@ -84,7 +80,7 @@
       avatar: https://img.131714.xyz/file/Logo/cRfyZZ2A.png
       description: 国内CDN和边缘计算服务
       url: https://console.edgeone.cn/login
-      category: CDN服务
+      category: 开发工具
       id: SRV003
       badge: 国内访问优化
       badgeIcon: lucide:zap
@@ -93,7 +89,7 @@
       avatar: https://img.131714.xyz/file/Logo/1753850924810_Spaceship.png
       description: A domain odyssey
       url: https://www.spaceship.com/
-      category: 域名售卖
+      category: 域名管理
       id: SRV004
       badge: 新兴域名注册商
       badgeIcon: lucide:rocket
@@ -138,7 +134,7 @@
       avatar: https://img.131714.xyz/file/Logo/1754280946361_InfinityFree.png
       description: 免费托管WordPress和其他网站
       url: https://www.infinityfree.com
-      category: 免费主机
+      category: 开发工具
       id: SRV009
       badge: 免费托管服务
       badgeIcon: lucide:server
@@ -180,7 +176,7 @@
       avatar: https://img.131714.xyz/file/Logo/HXADhsBn.png
       description: Astro是一个现代化的静态网站生成器
       url: https://docs.astro.build
-      category: 文档
+      category: 博客技术栈
       id: RES001
       badge: 前端框架
       badgeIcon: lucide:layout
@@ -189,7 +185,7 @@
       avatar: https://img.131714.xyz/file/Logo/mrp0EiyB.png
       description: Tailwind CSS是一个功能类优先的CSS框架
       url: https://tailwindcss.com/docs
-      category: 文档
+      category: 博客技术栈
       id: RES002
       badge: CSS 框架
       badgeIcon: lucide:file-code-2
@@ -198,7 +194,7 @@
       avatar: https://img.131714.xyz/file/Logo/WEl6nL3H.svg
       description: DaisyUI是一个基于Tailwind CSS的组件库
       url: https://daisyui.com/components/
-      category: UI 框架
+      category: 博客技术栈
       id: RES003
       badge: Tailwind 组件库
       badgeIcon: lucide:box
@@ -207,7 +203,7 @@
       avatar: https://img.131714.xyz/file/Logo/FL3XpMDh.png
       description: TypeScript是JavaScript的超集
       url: https://www.typescriptlang.org/docs/handbook/intro.html
-      category: 文档
+      category: 博客技术栈
       id: RES004
       badge: JavaScript 超集
       badgeIcon: lucide:file-code-2
