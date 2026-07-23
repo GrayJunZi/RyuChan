@@ -1,9 +1,17 @@
 {
     "songs": [
         {
+            "title": "水仙十字安眠曲 A Narcissus Lullaby",
+            "artist": "HOYO-MiX",
+            "cover": "https://p1.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+            "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2130083960",
+            "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2130083960",
+            "duration": "02:03"
+        },
+        {
             "title": "小半",
             "artist": "陈粒",
-            "cover": "https://p2.music.126.net/HQxTggMCB7AHUXN-ZFEtmA==/1371091013186741.jpg",
+            "cover": "https://p1.music.126.net/HQxTggMCB7AHUXN-ZFEtmA==/1371091013186741.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=421423806",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=421423806",
             "duration": "04:57"
@@ -11,7 +19,7 @@
         {
             "title": "走马",
             "artist": "陈粒",
-            "cover": "https://p2.music.126.net/VuJFMbXzpAProbJPoXLv7g==/7721870161993398.jpg",
+            "cover": "https://p1.music.126.net/VuJFMbXzpAProbJPoXLv7g==/7721870161993398.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=30431367",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=30431367",
             "duration": "03:55"
@@ -19,7 +27,7 @@
         {
             "title": "后来的我们",
             "artist": "五月天",
-            "cover": "https://p2.music.126.net/lt4R_XbCZsT-yzRfWs9VfQ==/3434874331529456.jpg",
+            "cover": "https://p1.music.126.net/lt4R_XbCZsT-yzRfWs9VfQ==/3434874331529456.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=422104138",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=422104138",
             "duration": "05:46"
@@ -27,7 +35,7 @@
         {
             "title": "夜车",
             "artist": "曾轶可",
-            "cover": "https://p2.music.126.net/s7Cn8bl21KY7kGiBWMdaFg==/109951163105666561.jpg",
+            "cover": "https://p1.music.126.net/s7Cn8bl21KY7kGiBWMdaFg==/109951163105666561.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=340376",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=340376",
             "duration": "03:11"
@@ -35,7 +43,7 @@
         {
             "title": "后来",
             "artist": "刘若英",
-            "cover": "https://p2.music.126.net/eBF7bHnJYBUfOFrJ_7SUfw==/109951163351825356.jpg",
+            "cover": "https://p1.music.126.net/eBF7bHnJYBUfOFrJ_7SUfw==/109951163351825356.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=254574",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=254574",
             "duration": "05:41"
@@ -43,7 +51,7 @@
         {
             "title": "喜欢",
             "artist": "阿肆",
-            "cover": "https://p2.music.126.net/OOJzEuUh90krY_PHXeWE7Q==/109951173049150195.jpg",
+            "cover": "https://p1.music.126.net/OOJzEuUh90krY_PHXeWE7Q==/109951173049150195.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=526464145",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=526464145",
             "duration": "04:10"
@@ -51,7 +59,7 @@
         {
             "title": "STYX HELIX",
             "artist": "MYTH & ROID",
-            "cover": "https://p2.music.126.net/XNabazarlJpjl8yl4tuCfg==/109951171350916152.jpg",
+            "cover": "https://p1.music.126.net/XNabazarlJpjl8yl4tuCfg==/109951171350916152.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=413961906",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=413961906",
             "duration": "04:51"
@@ -59,7 +67,7 @@
         {
             "title": "Brave Shine",
             "artist": "Aimer",
-            "cover": "https://p2.music.126.net/IX2EItaOWNbnY9fO7Tm2CQ==/109951168080741423.jpg",
+            "cover": "https://p1.music.126.net/IX2EItaOWNbnY9fO7Tm2CQ==/109951168080741423.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=32358691",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=32358691",
             "duration": "03:53"
@@ -67,7 +75,7 @@
         {
             "title": "最佳损友",
             "artist": "陈奕迅",
-            "cover": "https://p2.music.126.net/3mi073axgjg-g-79ObwwEQ==/109951171836582062.jpg",
+            "cover": "https://p1.music.126.net/3mi073axgjg-g-79ObwwEQ==/109951171836582062.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=65800",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=65800",
             "duration": "03:53"
@@ -75,7 +83,7 @@
         {
             "title": "女孩",
             "artist": "韦礼安",
-            "cover": "https://p2.music.126.net/s0AgmipqlXTW-r6YmiwNQg==/109951168079643579.jpg",
+            "cover": "https://p1.music.126.net/s0AgmipqlXTW-r6YmiwNQg==/109951168079643579.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=32358362",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=32358362",
             "duration": "05:06"
@@ -83,7 +91,7 @@
         {
             "title": "我们俩",
             "artist": "郭顶",
-            "cover": "https://p2.music.126.net/Zxb_k2LI77GLmXGg-k2r0g==/109951170514277229.jpg",
+            "cover": "https://p1.music.126.net/Zxb_k2LI77GLmXGg-k2r0g==/109951170514277229.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=85571",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=85571",
             "duration": "03:13"
@@ -91,7 +99,7 @@
         {
             "title": "海阔天空",
             "artist": "Beyond",
-            "cover": "https://p2.music.126.net/q6cm6Pk70YArijk1_QDoEg==/109951163984013003.jpg",
+            "cover": "https://p1.music.126.net/q6cm6Pk70YArijk1_QDoEg==/109951163984013003.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1357375695",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1357375695",
             "duration": "03:59"
@@ -99,7 +107,7 @@
         {
             "title": "多远都要在一起",
             "artist": "G.E.M.邓紫棋",
-            "cover": "https://p2.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg",
+            "cover": "https://p1.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=30612793",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=30612793",
             "duration": "03:36"
@@ -107,7 +115,7 @@
         {
             "title": "逆光",
             "artist": "孙燕姿",
-            "cover": "https://p2.music.126.net/wF25xzePLml5EGUWM2eInw==/109951173219336672.jpg",
+            "cover": "https://p1.music.126.net/wF25xzePLml5EGUWM2eInw==/109951173219336672.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=287057",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=287057",
             "duration": "04:54"
@@ -115,7 +123,7 @@
         {
             "title": "又是艳阳天",
             "artist": "郭静 / 韦礼安",
-            "cover": "https://p2.music.126.net/TDmpu8EMlt4UHaJuCFgTfQ==/109951167430325186.jpg",
+            "cover": "https://p1.music.126.net/TDmpu8EMlt4UHaJuCFgTfQ==/109951167430325186.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=233846",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=233846",
             "duration": "04:42"
@@ -123,7 +131,7 @@
         {
             "title": "3 Strikes",
             "artist": "Terror Jr",
-            "cover": "https://p2.music.126.net/iFZF7le6cQX_DpPY-udPoQ==/109951164000556824.jpg",
+            "cover": "https://p1.music.126.net/iFZF7le6cQX_DpPY-udPoQ==/109951164000556824.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=409647388",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=409647388",
             "duration": "02:55"
@@ -131,7 +139,7 @@
         {
             "title": "Beautiful World (Da Capo Version)",
             "artist": "宇多田ヒカル",
-            "cover": "https://p2.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg",
+            "cover": "https://p1.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1824020873",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1824020873",
             "duration": "05:58"
@@ -139,7 +147,7 @@
         {
             "title": "找自己",
             "artist": "陶喆",
-            "cover": "https://p2.music.126.net/tMQXBMTy8pGjGggX1j0YNQ==/109951169389595068.jpg",
+            "cover": "https://p1.music.126.net/tMQXBMTy8pGjGggX1j0YNQ==/109951169389595068.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=150617",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=150617",
             "duration": "05:04"
@@ -147,7 +155,7 @@
         {
             "title": "普通朋友",
             "artist": "陶喆",
-            "cover": "https://p2.music.126.net/tMQXBMTy8pGjGggX1j0YNQ==/109951169389595068.jpg",
+            "cover": "https://p1.music.126.net/tMQXBMTy8pGjGggX1j0YNQ==/109951169389595068.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=150623",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=150623",
             "duration": "04:15"
@@ -155,7 +163,7 @@
         {
             "title": "Mr. \"Broken Heart\"",
             "artist": "松下優也",
-            "cover": "https://p2.music.126.net/_wjX4Lq_dPNCllJX-r6FQg==/109951166201250148.jpg",
+            "cover": "https://p1.music.126.net/_wjX4Lq_dPNCllJX-r6FQg==/109951166201250148.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=26089264",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=26089264",
             "duration": "03:38"
@@ -163,7 +171,7 @@
         {
             "title": "打上花火",
             "artist": "Daoko / 米津玄師",
-            "cover": "https://p2.music.126.net/ZUCE_1Tl_hkbtamKmSNXEg==/109951163009282836.jpg",
+            "cover": "https://p1.music.126.net/ZUCE_1Tl_hkbtamKmSNXEg==/109951163009282836.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=496869422",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=496869422",
             "duration": "04:49"
@@ -171,7 +179,7 @@
         {
             "title": "唯一",
             "artist": "G.E.M.邓紫棋",
-            "cover": "https://p2.music.126.net/aJWtwvdYRXvKUpAE2C6NoA==/109951168919708423.jpg",
+            "cover": "https://p1.music.126.net/aJWtwvdYRXvKUpAE2C6NoA==/109951168919708423.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2083785152",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2083785152",
             "duration": "04:13"
@@ -179,7 +187,7 @@
         {
             "title": "老人と海",
             "artist": "ヨルシカ",
-            "cover": "https://p2.music.126.net/5aHcGADR5i6biE5TSqf_aQ==/109951166295171725.jpg",
+            "cover": "https://p1.music.126.net/5aHcGADR5i6biE5TSqf_aQ==/109951166295171725.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1870469768",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1870469768",
             "duration": "04:15"
@@ -187,7 +195,7 @@
         {
             "title": "出现又离开 (Live)",
             "artist": "梁博",
-            "cover": "https://p2.music.126.net/mAV2OH6nPJd4XLwn80kwpA==/109951164054054313.jpg",
+            "cover": "https://p1.music.126.net/mAV2OH6nPJd4XLwn80kwpA==/109951164054054313.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1363553440",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1363553440",
             "duration": "06:43"
@@ -195,7 +203,7 @@
         {
             "title": "知我",
             "artist": "国风堂 / 哦漏",
-            "cover": "https://p2.music.126.net/_etyUh1ofScyTMFArsJXWg==/109951164415301539.jpg",
+            "cover": "https://p1.music.126.net/_etyUh1ofScyTMFArsJXWg==/109951164415301539.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1394167216",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1394167216",
             "duration": "04:37"
@@ -203,7 +211,7 @@
         {
             "title": "炎",
             "artist": "LiSA",
-            "cover": "https://p2.music.126.net/Gn6tQvWXV58ptueWaOEZuQ==/109951165349903788.jpg",
+            "cover": "https://p1.music.126.net/Gn6tQvWXV58ptueWaOEZuQ==/109951165349903788.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1482908655",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1482908655",
             "duration": "04:34"
@@ -211,7 +219,7 @@
         {
             "title": "Reze",
             "artist": "kensuke ushio",
-            "cover": "https://p2.music.126.net/K92rwNNNgmJpgyhVxS-8ig==/109951172035133051.jpg",
+            "cover": "https://p1.music.126.net/K92rwNNNgmJpgyhVxS-8ig==/109951172035133051.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2747726111",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2747726111",
             "duration": "01:14"
@@ -219,7 +227,7 @@
         {
             "title": "フィナーレ。",
             "artist": "eill",
-            "cover": "https://p2.music.126.net/elOSlLUcyPt_fqdluhSBBA==/109951167783001594.jpg",
+            "cover": "https://p1.music.126.net/elOSlLUcyPt_fqdluhSBBA==/109951167783001594.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1972395036",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1972395036",
             "duration": "04:02"
@@ -227,7 +235,7 @@
         {
             "title": "SPECIALZ",
             "artist": "King Gnu",
-            "cover": "https://p2.music.126.net/LielQw8AQQDLGQwj-xhOjA==/109951168848035270.jpg",
+            "cover": "https://p1.music.126.net/LielQw8AQQDLGQwj-xhOjA==/109951168848035270.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2074163984",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2074163984",
             "duration": "03:59"
@@ -235,7 +243,7 @@
         {
             "title": "AIZO",
             "artist": "King Gnu",
-            "cover": "https://p2.music.126.net/3HQLa_W5Y0x1vnO3SQ5vuQ==/109951172559097545.jpg",
+            "cover": "https://p1.music.126.net/3HQLa_W5Y0x1vnO3SQ5vuQ==/109951172559097545.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=3337367763",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=3337367763",
             "duration": "03:35"
@@ -243,7 +251,7 @@
         {
             "title": "in the pool",
             "artist": "kensuke ushio",
-            "cover": "https://p2.music.126.net/K92rwNNNgmJpgyhVxS-8ig==/109951172035133051.jpg",
+            "cover": "https://p1.music.126.net/K92rwNNNgmJpgyhVxS-8ig==/109951172035133051.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2747726104",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2747726104",
             "duration": "04:05"
@@ -251,7 +259,7 @@
         {
             "title": "IRIS OUT",
             "artist": "米津玄師",
-            "cover": "https://p2.music.126.net/X9wPjRlR4H39vjJtAzVA9Q==/109951171998034780.jpg",
+            "cover": "https://p1.music.126.net/X9wPjRlR4H39vjJtAzVA9Q==/109951171998034780.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2745026895",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2745026895",
             "duration": "02:31"
@@ -259,7 +267,7 @@
         {
             "title": "JANE DOE",
             "artist": "米津玄師 / 宇多田ヒカル",
-            "cover": "https://p2.music.126.net/z8vkaskRIKrLhTZ0zrqzDg==/109951172028084335.jpg",
+            "cover": "https://p1.music.126.net/z8vkaskRIKrLhTZ0zrqzDg==/109951172028084335.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2747166493",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2747166493",
             "duration": "03:56"
@@ -267,7 +275,7 @@
         {
             "title": "Departures〜あなたにおくるアイの歌〜",
             "artist": "EGOIST",
-            "cover": "https://p2.music.126.net/RU7zCEyeZMH7ZYk6xcm19w==/109951165946393227.jpg",
+            "cover": "https://p1.music.126.net/RU7zCEyeZMH7ZYk6xcm19w==/109951165946393227.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=722928",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=722928",
             "duration": "04:15"
@@ -275,7 +283,7 @@
         {
             "title": "轻涟 La vaguelette",
             "artist": "HOYO-MiX",
-            "cover": "https://p2.music.126.net/I-cw5yaq4Pz0EL2dZAmq1g==/109951169058808374.jpg",
+            "cover": "https://p1.music.126.net/I-cw5yaq4Pz0EL2dZAmq1g==/109951169058808374.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2100334024",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2100334024",
             "duration": "02:29"
@@ -283,7 +291,7 @@
         {
             "title": "unravel",
             "artist": "TK from 凛として時雨",
-            "cover": "https://p2.music.126.net/FDOGd6uW4RUDuAq6fKvnmw==/109951169033080950.jpg",
+            "cover": "https://p1.music.126.net/FDOGd6uW4RUDuAq6fKvnmw==/109951169033080950.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=29017078",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=29017078",
             "duration": "04:00"
@@ -291,7 +299,7 @@
         {
             "title": "Love Story",
             "artist": "Taylor Swift",
-            "cover": "https://p2.music.126.net/GZERNplXUdzTPkKqo2F4tA==/109951169217536854.jpg",
+            "cover": "https://p1.music.126.net/GZERNplXUdzTPkKqo2F4tA==/109951169217536854.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=19292984",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=19292984",
             "duration": "03:56"
@@ -299,7 +307,7 @@
         {
             "title": "爱情讯息",
             "artist": "郭静",
-            "cover": "https://p2.music.126.net/-ccXZvLLbvLQc99YEbylUA==/109951171316025348.jpg",
+            "cover": "https://p1.music.126.net/-ccXZvLLbvLQc99YEbylUA==/109951171316025348.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=233888",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=233888",
             "duration": "04:40"
@@ -307,7 +315,7 @@
         {
             "title": "遇见",
             "artist": "孙燕姿",
-            "cover": "https://p2.music.126.net/KZ0VfIoFYsxpjz9sTQuLVQ==/17687843556430013.jpg",
+            "cover": "https://p1.music.126.net/KZ0VfIoFYsxpjz9sTQuLVQ==/17687843556430013.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=454828887",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=454828887",
             "duration": "03:29"
@@ -315,7 +323,7 @@
         {
             "title": "我怀念的",
             "artist": "孙燕姿",
-            "cover": "https://p2.music.126.net/wF25xzePLml5EGUWM2eInw==/109951173219336672.jpg",
+            "cover": "https://p1.music.126.net/wF25xzePLml5EGUWM2eInw==/109951173219336672.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=287063",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=287063",
             "duration": "04:49"
@@ -323,7 +331,7 @@
         {
             "title": "Call of Silence",
             "artist": "澤野弘之 / R!N/Gemie",
-            "cover": "https://p2.music.126.net/nRuQt_bbbiQ70CxwXUHXOQ==/109951163597044887.jpg",
+            "cover": "https://p1.music.126.net/nRuQt_bbbiQ70CxwXUHXOQ==/109951163597044887.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=482636090",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=482636090",
             "duration": "02:58"
@@ -331,7 +339,7 @@
         {
             "title": "可惜没如果",
             "artist": "林俊杰",
-            "cover": "https://p2.music.126.net/2e__sKuIQsTSVVGr5Hk1FA==/109951170313536564.jpg",
+            "cover": "https://p1.music.126.net/2e__sKuIQsTSVVGr5Hk1FA==/109951170313536564.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=29814898",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=29814898",
             "duration": "04:58"
@@ -339,7 +347,7 @@
         {
             "title": "恋人",
             "artist": "李荣浩",
-            "cover": "https://p2.music.126.net/0bk3Iqe2OZGBH2Iuyx7RzA==/109951170045577565.jpg",
+            "cover": "https://p1.music.126.net/0bk3Iqe2OZGBH2Iuyx7RzA==/109951170045577565.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2600493765",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2600493765",
             "duration": "04:35"
@@ -347,7 +355,7 @@
         {
             "title": "HIS SMILE",
             "artist": "麗美",
-            "cover": "https://p2.music.126.net/k1w34BBPp23lXyijkMPqLQ==/109951170456532964.jpg",
+            "cover": "https://p1.music.126.net/k1w34BBPp23lXyijkMPqLQ==/109951170456532964.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=22712631",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=22712631",
             "duration": "04:56"
@@ -355,7 +363,7 @@
         {
             "title": "特别的人",
             "artist": "方大同",
-            "cover": "https://p2.music.126.net/3Y0A55OzEnqKNiH5ODA54A==/109951172683046522.jpg",
+            "cover": "https://p1.music.126.net/3Y0A55OzEnqKNiH5ODA54A==/109951172683046522.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=28403111",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=28403111",
             "duration": "04:19"
@@ -363,7 +371,7 @@
         {
             "title": "心墙",
             "artist": "郭静",
-            "cover": "https://p2.music.126.net/twmbtfq2KVsIwmpJ8aTfRQ==/109951168105390425.jpg",
+            "cover": "https://p1.music.126.net/twmbtfq2KVsIwmpJ8aTfRQ==/109951168105390425.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=27671269",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=27671269",
             "duration": "03:47"
@@ -371,7 +379,7 @@
         {
             "title": "from the edge",
             "artist": "FictionJunction / LiSA",
-            "cover": "https://p2.music.126.net/n_vw2vd7IFN2y_D7-RIH3Q==/109951171371865924.jpg",
+            "cover": "https://p1.music.126.net/n_vw2vd7IFN2y_D7-RIH3Q==/109951171371865924.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1388181876",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1388181876",
             "duration": "04:38"
@@ -379,7 +387,7 @@
         {
             "title": "残酷な夜に輝け - Shine in the Cruel Night",
             "artist": "LiSA",
-            "cover": "https://p2.music.126.net/biQgZKsNO_Vh-FeuKXso6A==/109951171480745508.jpg",
+            "cover": "https://p1.music.126.net/biQgZKsNO_Vh-FeuKXso6A==/109951171480745508.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2727103261",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2727103261",
             "duration": "06:23"
@@ -387,7 +395,7 @@
         {
             "title": "紅蓮華",
             "artist": "LiSA",
-            "cover": "https://p2.music.126.net/JvremjkFs3cvGOFTetujHg==/109951169169579096.jpg",
+            "cover": "https://p1.music.126.net/JvremjkFs3cvGOFTetujHg==/109951169169579096.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1375305989",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1375305989",
             "duration": "03:56"
@@ -395,7 +403,7 @@
         {
             "title": "太陽が昇らない世界 - A World Where the Sun Never Rises",
             "artist": "Aimer",
-            "cover": "https://p2.music.126.net/gGaYHT571-HXXwoQKNbs3g==/109951171480735948.jpg",
+            "cover": "https://p1.music.126.net/gGaYHT571-HXXwoQKNbs3g==/109951171480735948.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2727103300",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2727103300",
             "duration": "02:50"
@@ -403,7 +411,7 @@
         {
             "title": "To the Infinity Castle - Muzan vs Hashira Theme (from \"Demon Slayer\") (Cover)",
             "artist": "Diego Mitre",
-            "cover": "https://p2.music.126.net/3VXjKtTkaWmzOaGuaK0Xlg==/109951169741328857.jpg",
+            "cover": "https://p1.music.126.net/3VXjKtTkaWmzOaGuaK0Xlg==/109951169741328857.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2604036163",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2604036163",
             "duration": "05:05"
@@ -411,7 +419,7 @@
         {
             "title": "Style",
             "artist": "Taylor Swift",
-            "cover": "https://p2.music.126.net/3KDqQ9XW2Khj5Ia4tRqAAw==/18771962022688349.jpg",
+            "cover": "https://p1.music.126.net/3KDqQ9XW2Khj5Ia4tRqAAw==/18771962022688349.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=29572502",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=29572502",
             "duration": "03:51"
@@ -419,7 +427,7 @@
         {
             "title": "One Last Kiss",
             "artist": "宇多田ヒカル",
-            "cover": "https://p2.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg",
+            "cover": "https://p1.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1824020871",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1824020871",
             "duration": "04:12"
@@ -427,7 +435,7 @@
         {
             "title": "鳥の詩",
             "artist": "Lia",
-            "cover": "https://p2.music.126.net/xzm2HOT5DpobOk73OhE9QQ==/109951170627348480.jpg",
+            "cover": "https://p1.music.126.net/xzm2HOT5DpobOk73OhE9QQ==/109951170627348480.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=28151022",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=28151022",
             "duration": "06:09"
@@ -1715,7 +1723,7 @@
         {
             "title": "寂寞留白",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/dEGpD8qCaA9URIEa5WEQSQ==/109951170330494512.jpg",
+            "cover": "https://p2.music.126.net/dEGpD8qCaA9URIEa5WEQSQ==/109951170330494512.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1892514735",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1892514735",
             "duration": "04:22"
@@ -1723,7 +1731,7 @@
         {
             "title": "从没去过巴塞隆纳",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
+            "cover": "https://p2.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1368754724",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1368754724",
             "duration": "04:33"
@@ -1731,7 +1739,7 @@
         {
             "title": "在未来的你跟我说声嗨",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/43RBalJqy0bzTVRh-vtYeQ==/109951167974941367.jpg",
+            "cover": "https://p2.music.126.net/43RBalJqy0bzTVRh-vtYeQ==/109951167974941367.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1990179959",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1990179959",
             "duration": "04:31"
@@ -1739,7 +1747,7 @@
         {
             "title": "倒带（Live版）",
             "artist": "希林娜依高 / 告五人",
-            "cover": "https://p1.music.126.net/bxMKtc9vBLT-WFwuG0ya5A==/109951168667081237.jpg",
+            "cover": "https://p2.music.126.net/bxMKtc9vBLT-WFwuG0ya5A==/109951168667081237.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2054190758",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2054190758",
             "duration": "04:08"
@@ -1747,7 +1755,7 @@
         {
             "title": "如果我们不曾相遇 (Live版)",
             "artist": "王源 / 告五人",
-            "cover": "https://p1.music.126.net/xjG5FWzssqblkqnrq1BQYA==/109951171361951004.jpg",
+            "cover": "https://p2.music.126.net/xjG5FWzssqblkqnrq1BQYA==/109951171361951004.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2719648966",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2719648966",
             "duration": "02:47"
@@ -1755,7 +1763,7 @@
         {
             "title": "又到天黑",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/POvc5YLqLHIwJ9jw1Hqizw==/109951168245195477.jpg",
+            "cover": "https://p2.music.126.net/POvc5YLqLHIwJ9jw1Hqizw==/109951168245195477.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2015647807",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2015647807",
             "duration": "04:50"
@@ -1763,7 +1771,7 @@
         {
             "title": "开往早晨的午夜 (Live版)",
             "artist": "胡彦斌 / 告五人",
-            "cover": "https://p1.music.126.net/yG_0PsxZWDDXQ3p1JNUUHQ==/109951168692047003.jpg",
+            "cover": "https://p2.music.126.net/yG_0PsxZWDDXQ3p1JNUUHQ==/109951168692047003.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2057718119",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2057718119",
             "duration": "04:50"
@@ -1771,7 +1779,7 @@
         {
             "title": "夜里无星",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
+            "cover": "https://p2.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1368754722",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1368754722",
             "duration": "05:28"
@@ -1779,7 +1787,7 @@
         {
             "title": "同样一个你",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/5URIeP6GjMFg_hKhGloNTA==/109951165585701063.jpg",
+            "cover": "https://p2.music.126.net/5URIeP6GjMFg_hKhGloNTA==/109951165585701063.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1807796551",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1807796551",
             "duration": "04:31"
@@ -1787,7 +1795,7 @@
         {
             "title": "就说你想说的",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/TqXG5qUH4eydADCIj4a93Q==/109951170035412550.jpg",
+            "cover": "https://p2.music.126.net/TqXG5qUH4eydADCIj4a93Q==/109951170035412550.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2635596825",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2635596825",
             "duration": "05:50"
@@ -1795,7 +1803,7 @@
         {
             "title": "不具名的花",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
+            "cover": "https://p2.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1368754746",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1368754746",
             "duration": "05:39"
@@ -1803,7 +1811,7 @@
         {
             "title": "说我爱你的一百种方式",
             "artist": "与少年他 / 告五人",
-            "cover": "https://p1.music.126.net/faUeDhtc9M79ztkHKD3QoQ==/109951164931040864.jpg",
+            "cover": "https://p2.music.126.net/faUeDhtc9M79ztkHKD3QoQ==/109951164931040864.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1442773498",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1442773498",
             "duration": "04:31"
@@ -1811,7 +1819,7 @@
         {
             "title": "爱 (Live版)",
             "artist": "王赫野 / 告五人",
-            "cover": "https://p1.music.126.net/9c8-dJORfACNw1HpFIK5Qg==/109951171331630100.jpg",
+            "cover": "https://p2.music.126.net/9c8-dJORfACNw1HpFIK5Qg==/109951171331630100.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2717169746",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2717169746",
             "duration": "03:39"
@@ -1819,7 +1827,7 @@
         {
             "title": "我以为你不会出现",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/i928-hIdPinzbW1p00sThQ==/109951167429598505.jpg",
+            "cover": "https://p2.music.126.net/i928-hIdPinzbW1p00sThQ==/109951167429598505.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1948145018",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1948145018",
             "duration": "05:46"
@@ -1827,7 +1835,7 @@
         {
             "title": "女孩 (Live版)",
             "artist": "告五人 / 吉克隽逸",
-            "cover": "https://p1.music.126.net/aSHcPfr8pHjF4bigM2PlEg==/109951168735281965.jpg",
+            "cover": "https://p2.music.126.net/aSHcPfr8pHjF4bigM2PlEg==/109951168735281965.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2063468929",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2063468929",
             "duration": "05:42"
@@ -1835,7 +1843,7 @@
         {
             "title": "将错就对",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
+            "cover": "https://p2.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2723327157",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2723327157",
             "duration": "04:29"
@@ -1843,7 +1851,7 @@
         {
             "title": "独角兽",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/hTfEeER_YfHLb_2RvtrXrQ==/109951168110801977.jpg",
+            "cover": "https://p2.music.126.net/hTfEeER_YfHLb_2RvtrXrQ==/109951168110801977.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=511920319",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=511920319",
             "duration": "06:39"
@@ -1851,7 +1859,7 @@
         {
             "title": "鹰",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
+            "cover": "https://p2.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2723327160",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2723327160",
             "duration": "04:59"
@@ -1859,7 +1867,7 @@
         {
             "title": "温蒂公主的侍卫+爱人错过 (Live版)",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/6kp_Q0ZeczFVI2GRRBiKTg==/109951168692019199.jpg",
+            "cover": "https://p2.music.126.net/6kp_Q0ZeczFVI2GRRBiKTg==/109951168692019199.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2057712997",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2057712997",
             "duration": "08:54"
@@ -1867,7 +1875,7 @@
         {
             "title": "在凌晨睡着的自己",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/2hpO_fHBK98PRs8H4h179Q==/109951168189459708.jpg",
+            "cover": "https://p2.music.126.net/2hpO_fHBK98PRs8H4h179Q==/109951168189459708.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2010289317",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2010289317",
             "duration": "04:40"
@@ -1875,7 +1883,7 @@
         {
             "title": "跳海",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
+            "cover": "https://p2.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1368754689",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1368754689",
             "duration": "04:49"
@@ -1883,7 +1891,7 @@
         {
             "title": "简答题",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
+            "cover": "https://p2.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1368754754",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1368754754",
             "duration": "02:58"
@@ -1891,7 +1899,7 @@
         {
             "title": "不摇滚 (feat. 告五人)",
             "artist": "八三夭 / 告五人",
-            "cover": "https://p1.music.126.net/NnNgJbwl3PeVcCyQVpoijA==/109951166459446375.jpg",
+            "cover": "https://p2.music.126.net/NnNgJbwl3PeVcCyQVpoijA==/109951166459446375.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1881684470",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1881684470",
             "duration": "04:51"
@@ -1899,7 +1907,7 @@
         {
             "title": "远距离恋爱",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/PgcIr7Vv7J4N_OjYxQbo0g==/109951168306417191.jpg",
+            "cover": "https://p2.music.126.net/PgcIr7Vv7J4N_OjYxQbo0g==/109951168306417191.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2022072827",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2022072827",
             "duration": "05:12"
@@ -1907,7 +1915,7 @@
         {
             "title": "知足",
             "artist": "五月天 / 告五人",
-            "cover": "https://p1.music.126.net/7rWFdO3eiw4NsyYbmMyjsw==/109951168536167356.jpg",
+            "cover": "https://p2.music.126.net/7rWFdO3eiw4NsyYbmMyjsw==/109951168536167356.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2037926385",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2037926385",
             "duration": "04:10"
@@ -1915,7 +1923,7 @@
         {
             "title": "黑夜狂奔",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
+            "cover": "https://p2.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2723322998",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2723322998",
             "duration": "05:20"
@@ -1923,7 +1931,7 @@
         {
             "title": "夏天的海冬天的雪",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
+            "cover": "https://p2.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2723327162",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2723327162",
             "duration": "03:40"
@@ -1931,7 +1939,7 @@
         {
             "title": "我无法克制自己",
             "artist": "告五人",
-            "cover": "https://p1.music.126.net/PgcIr7Vv7J4N_OjYxQbo0g==/109951168306417191.jpg",
+            "cover": "https://p2.music.126.net/PgcIr7Vv7J4N_OjYxQbo0g==/109951168306417191.jpg",
             "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2022069283",
             "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2022069283",
             "duration": "05:08"
@@ -1946,7 +1954,7 @@
         }
     ],
     "playlistCounts": {
-        "17933567326": 54,
+        "17933567326": 55,
         "7039749142": 99,
         "7559655733": 39,
         "17966019560": 50,
@@ -1955,9 +1963,17 @@
     "playlistSongs": {
         "17933567326": [
             {
+                "title": "水仙十字安眠曲 A Narcissus Lullaby",
+                "artist": "HOYO-MiX",
+                "cover": "https://p1.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+                "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2130083960",
+                "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2130083960",
+                "duration": "02:03"
+            },
+            {
                 "title": "小半",
                 "artist": "陈粒",
-                "cover": "https://p2.music.126.net/HQxTggMCB7AHUXN-ZFEtmA==/1371091013186741.jpg",
+                "cover": "https://p1.music.126.net/HQxTggMCB7AHUXN-ZFEtmA==/1371091013186741.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=421423806",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=421423806",
                 "duration": "04:57"
@@ -1965,7 +1981,7 @@
             {
                 "title": "走马",
                 "artist": "陈粒",
-                "cover": "https://p2.music.126.net/VuJFMbXzpAProbJPoXLv7g==/7721870161993398.jpg",
+                "cover": "https://p1.music.126.net/VuJFMbXzpAProbJPoXLv7g==/7721870161993398.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=30431367",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=30431367",
                 "duration": "03:55"
@@ -1973,7 +1989,7 @@
             {
                 "title": "后来的我们",
                 "artist": "五月天",
-                "cover": "https://p2.music.126.net/lt4R_XbCZsT-yzRfWs9VfQ==/3434874331529456.jpg",
+                "cover": "https://p1.music.126.net/lt4R_XbCZsT-yzRfWs9VfQ==/3434874331529456.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=422104138",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=422104138",
                 "duration": "05:46"
@@ -1981,7 +1997,7 @@
             {
                 "title": "夜车",
                 "artist": "曾轶可",
-                "cover": "https://p2.music.126.net/s7Cn8bl21KY7kGiBWMdaFg==/109951163105666561.jpg",
+                "cover": "https://p1.music.126.net/s7Cn8bl21KY7kGiBWMdaFg==/109951163105666561.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=340376",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=340376",
                 "duration": "03:11"
@@ -1989,7 +2005,7 @@
             {
                 "title": "后来",
                 "artist": "刘若英",
-                "cover": "https://p2.music.126.net/eBF7bHnJYBUfOFrJ_7SUfw==/109951163351825356.jpg",
+                "cover": "https://p1.music.126.net/eBF7bHnJYBUfOFrJ_7SUfw==/109951163351825356.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=254574",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=254574",
                 "duration": "05:41"
@@ -1997,7 +2013,7 @@
             {
                 "title": "喜欢",
                 "artist": "阿肆",
-                "cover": "https://p2.music.126.net/OOJzEuUh90krY_PHXeWE7Q==/109951173049150195.jpg",
+                "cover": "https://p1.music.126.net/OOJzEuUh90krY_PHXeWE7Q==/109951173049150195.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=526464145",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=526464145",
                 "duration": "04:10"
@@ -2005,7 +2021,7 @@
             {
                 "title": "STYX HELIX",
                 "artist": "MYTH & ROID",
-                "cover": "https://p2.music.126.net/XNabazarlJpjl8yl4tuCfg==/109951171350916152.jpg",
+                "cover": "https://p1.music.126.net/XNabazarlJpjl8yl4tuCfg==/109951171350916152.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=413961906",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=413961906",
                 "duration": "04:51"
@@ -2013,7 +2029,7 @@
             {
                 "title": "Brave Shine",
                 "artist": "Aimer",
-                "cover": "https://p2.music.126.net/IX2EItaOWNbnY9fO7Tm2CQ==/109951168080741423.jpg",
+                "cover": "https://p1.music.126.net/IX2EItaOWNbnY9fO7Tm2CQ==/109951168080741423.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=32358691",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=32358691",
                 "duration": "03:53"
@@ -2021,7 +2037,7 @@
             {
                 "title": "最佳损友",
                 "artist": "陈奕迅",
-                "cover": "https://p2.music.126.net/3mi073axgjg-g-79ObwwEQ==/109951171836582062.jpg",
+                "cover": "https://p1.music.126.net/3mi073axgjg-g-79ObwwEQ==/109951171836582062.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=65800",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=65800",
                 "duration": "03:53"
@@ -2029,7 +2045,7 @@
             {
                 "title": "女孩",
                 "artist": "韦礼安",
-                "cover": "https://p2.music.126.net/s0AgmipqlXTW-r6YmiwNQg==/109951168079643579.jpg",
+                "cover": "https://p1.music.126.net/s0AgmipqlXTW-r6YmiwNQg==/109951168079643579.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=32358362",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=32358362",
                 "duration": "05:06"
@@ -2037,7 +2053,7 @@
             {
                 "title": "我们俩",
                 "artist": "郭顶",
-                "cover": "https://p2.music.126.net/Zxb_k2LI77GLmXGg-k2r0g==/109951170514277229.jpg",
+                "cover": "https://p1.music.126.net/Zxb_k2LI77GLmXGg-k2r0g==/109951170514277229.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=85571",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=85571",
                 "duration": "03:13"
@@ -2045,7 +2061,7 @@
             {
                 "title": "海阔天空",
                 "artist": "Beyond",
-                "cover": "https://p2.music.126.net/q6cm6Pk70YArijk1_QDoEg==/109951163984013003.jpg",
+                "cover": "https://p1.music.126.net/q6cm6Pk70YArijk1_QDoEg==/109951163984013003.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1357375695",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1357375695",
                 "duration": "03:59"
@@ -2053,7 +2069,7 @@
             {
                 "title": "多远都要在一起",
                 "artist": "G.E.M.邓紫棋",
-                "cover": "https://p2.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg",
+                "cover": "https://p1.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=30612793",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=30612793",
                 "duration": "03:36"
@@ -2061,7 +2077,7 @@
             {
                 "title": "逆光",
                 "artist": "孙燕姿",
-                "cover": "https://p2.music.126.net/wF25xzePLml5EGUWM2eInw==/109951173219336672.jpg",
+                "cover": "https://p1.music.126.net/wF25xzePLml5EGUWM2eInw==/109951173219336672.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=287057",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=287057",
                 "duration": "04:54"
@@ -2069,7 +2085,7 @@
             {
                 "title": "又是艳阳天",
                 "artist": "郭静 / 韦礼安",
-                "cover": "https://p2.music.126.net/TDmpu8EMlt4UHaJuCFgTfQ==/109951167430325186.jpg",
+                "cover": "https://p1.music.126.net/TDmpu8EMlt4UHaJuCFgTfQ==/109951167430325186.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=233846",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=233846",
                 "duration": "04:42"
@@ -2077,7 +2093,7 @@
             {
                 "title": "3 Strikes",
                 "artist": "Terror Jr",
-                "cover": "https://p2.music.126.net/iFZF7le6cQX_DpPY-udPoQ==/109951164000556824.jpg",
+                "cover": "https://p1.music.126.net/iFZF7le6cQX_DpPY-udPoQ==/109951164000556824.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=409647388",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=409647388",
                 "duration": "02:55"
@@ -2085,7 +2101,7 @@
             {
                 "title": "Beautiful World (Da Capo Version)",
                 "artist": "宇多田ヒカル",
-                "cover": "https://p2.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg",
+                "cover": "https://p1.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1824020873",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1824020873",
                 "duration": "05:58"
@@ -2093,7 +2109,7 @@
             {
                 "title": "找自己",
                 "artist": "陶喆",
-                "cover": "https://p2.music.126.net/tMQXBMTy8pGjGggX1j0YNQ==/109951169389595068.jpg",
+                "cover": "https://p1.music.126.net/tMQXBMTy8pGjGggX1j0YNQ==/109951169389595068.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=150617",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=150617",
                 "duration": "05:04"
@@ -2101,7 +2117,7 @@
             {
                 "title": "普通朋友",
                 "artist": "陶喆",
-                "cover": "https://p2.music.126.net/tMQXBMTy8pGjGggX1j0YNQ==/109951169389595068.jpg",
+                "cover": "https://p1.music.126.net/tMQXBMTy8pGjGggX1j0YNQ==/109951169389595068.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=150623",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=150623",
                 "duration": "04:15"
@@ -2109,7 +2125,7 @@
             {
                 "title": "Mr. \"Broken Heart\"",
                 "artist": "松下優也",
-                "cover": "https://p2.music.126.net/_wjX4Lq_dPNCllJX-r6FQg==/109951166201250148.jpg",
+                "cover": "https://p1.music.126.net/_wjX4Lq_dPNCllJX-r6FQg==/109951166201250148.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=26089264",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=26089264",
                 "duration": "03:38"
@@ -2117,7 +2133,7 @@
             {
                 "title": "打上花火",
                 "artist": "Daoko / 米津玄師",
-                "cover": "https://p2.music.126.net/ZUCE_1Tl_hkbtamKmSNXEg==/109951163009282836.jpg",
+                "cover": "https://p1.music.126.net/ZUCE_1Tl_hkbtamKmSNXEg==/109951163009282836.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=496869422",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=496869422",
                 "duration": "04:49"
@@ -2125,7 +2141,7 @@
             {
                 "title": "唯一",
                 "artist": "G.E.M.邓紫棋",
-                "cover": "https://p2.music.126.net/aJWtwvdYRXvKUpAE2C6NoA==/109951168919708423.jpg",
+                "cover": "https://p1.music.126.net/aJWtwvdYRXvKUpAE2C6NoA==/109951168919708423.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2083785152",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2083785152",
                 "duration": "04:13"
@@ -2133,7 +2149,7 @@
             {
                 "title": "老人と海",
                 "artist": "ヨルシカ",
-                "cover": "https://p2.music.126.net/5aHcGADR5i6biE5TSqf_aQ==/109951166295171725.jpg",
+                "cover": "https://p1.music.126.net/5aHcGADR5i6biE5TSqf_aQ==/109951166295171725.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1870469768",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1870469768",
                 "duration": "04:15"
@@ -2141,7 +2157,7 @@
             {
                 "title": "出现又离开 (Live)",
                 "artist": "梁博",
-                "cover": "https://p2.music.126.net/mAV2OH6nPJd4XLwn80kwpA==/109951164054054313.jpg",
+                "cover": "https://p1.music.126.net/mAV2OH6nPJd4XLwn80kwpA==/109951164054054313.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1363553440",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1363553440",
                 "duration": "06:43"
@@ -2149,7 +2165,7 @@
             {
                 "title": "知我",
                 "artist": "国风堂 / 哦漏",
-                "cover": "https://p2.music.126.net/_etyUh1ofScyTMFArsJXWg==/109951164415301539.jpg",
+                "cover": "https://p1.music.126.net/_etyUh1ofScyTMFArsJXWg==/109951164415301539.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1394167216",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1394167216",
                 "duration": "04:37"
@@ -2157,7 +2173,7 @@
             {
                 "title": "炎",
                 "artist": "LiSA",
-                "cover": "https://p2.music.126.net/Gn6tQvWXV58ptueWaOEZuQ==/109951165349903788.jpg",
+                "cover": "https://p1.music.126.net/Gn6tQvWXV58ptueWaOEZuQ==/109951165349903788.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1482908655",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1482908655",
                 "duration": "04:34"
@@ -2165,7 +2181,7 @@
             {
                 "title": "Reze",
                 "artist": "kensuke ushio",
-                "cover": "https://p2.music.126.net/K92rwNNNgmJpgyhVxS-8ig==/109951172035133051.jpg",
+                "cover": "https://p1.music.126.net/K92rwNNNgmJpgyhVxS-8ig==/109951172035133051.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2747726111",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2747726111",
                 "duration": "01:14"
@@ -2173,7 +2189,7 @@
             {
                 "title": "フィナーレ。",
                 "artist": "eill",
-                "cover": "https://p2.music.126.net/elOSlLUcyPt_fqdluhSBBA==/109951167783001594.jpg",
+                "cover": "https://p1.music.126.net/elOSlLUcyPt_fqdluhSBBA==/109951167783001594.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1972395036",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1972395036",
                 "duration": "04:02"
@@ -2181,7 +2197,7 @@
             {
                 "title": "SPECIALZ",
                 "artist": "King Gnu",
-                "cover": "https://p2.music.126.net/LielQw8AQQDLGQwj-xhOjA==/109951168848035270.jpg",
+                "cover": "https://p1.music.126.net/LielQw8AQQDLGQwj-xhOjA==/109951168848035270.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2074163984",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2074163984",
                 "duration": "03:59"
@@ -2189,7 +2205,7 @@
             {
                 "title": "AIZO",
                 "artist": "King Gnu",
-                "cover": "https://p2.music.126.net/3HQLa_W5Y0x1vnO3SQ5vuQ==/109951172559097545.jpg",
+                "cover": "https://p1.music.126.net/3HQLa_W5Y0x1vnO3SQ5vuQ==/109951172559097545.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=3337367763",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=3337367763",
                 "duration": "03:35"
@@ -2197,7 +2213,7 @@
             {
                 "title": "in the pool",
                 "artist": "kensuke ushio",
-                "cover": "https://p2.music.126.net/K92rwNNNgmJpgyhVxS-8ig==/109951172035133051.jpg",
+                "cover": "https://p1.music.126.net/K92rwNNNgmJpgyhVxS-8ig==/109951172035133051.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2747726104",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2747726104",
                 "duration": "04:05"
@@ -2205,7 +2221,7 @@
             {
                 "title": "IRIS OUT",
                 "artist": "米津玄師",
-                "cover": "https://p2.music.126.net/X9wPjRlR4H39vjJtAzVA9Q==/109951171998034780.jpg",
+                "cover": "https://p1.music.126.net/X9wPjRlR4H39vjJtAzVA9Q==/109951171998034780.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2745026895",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2745026895",
                 "duration": "02:31"
@@ -2213,7 +2229,7 @@
             {
                 "title": "JANE DOE",
                 "artist": "米津玄師 / 宇多田ヒカル",
-                "cover": "https://p2.music.126.net/z8vkaskRIKrLhTZ0zrqzDg==/109951172028084335.jpg",
+                "cover": "https://p1.music.126.net/z8vkaskRIKrLhTZ0zrqzDg==/109951172028084335.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2747166493",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2747166493",
                 "duration": "03:56"
@@ -2221,7 +2237,7 @@
             {
                 "title": "Departures〜あなたにおくるアイの歌〜",
                 "artist": "EGOIST",
-                "cover": "https://p2.music.126.net/RU7zCEyeZMH7ZYk6xcm19w==/109951165946393227.jpg",
+                "cover": "https://p1.music.126.net/RU7zCEyeZMH7ZYk6xcm19w==/109951165946393227.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=722928",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=722928",
                 "duration": "04:15"
@@ -2229,7 +2245,7 @@
             {
                 "title": "轻涟 La vaguelette",
                 "artist": "HOYO-MiX",
-                "cover": "https://p2.music.126.net/I-cw5yaq4Pz0EL2dZAmq1g==/109951169058808374.jpg",
+                "cover": "https://p1.music.126.net/I-cw5yaq4Pz0EL2dZAmq1g==/109951169058808374.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2100334024",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2100334024",
                 "duration": "02:29"
@@ -2237,7 +2253,7 @@
             {
                 "title": "unravel",
                 "artist": "TK from 凛として時雨",
-                "cover": "https://p2.music.126.net/FDOGd6uW4RUDuAq6fKvnmw==/109951169033080950.jpg",
+                "cover": "https://p1.music.126.net/FDOGd6uW4RUDuAq6fKvnmw==/109951169033080950.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=29017078",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=29017078",
                 "duration": "04:00"
@@ -2245,7 +2261,7 @@
             {
                 "title": "Love Story",
                 "artist": "Taylor Swift",
-                "cover": "https://p2.music.126.net/GZERNplXUdzTPkKqo2F4tA==/109951169217536854.jpg",
+                "cover": "https://p1.music.126.net/GZERNplXUdzTPkKqo2F4tA==/109951169217536854.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=19292984",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=19292984",
                 "duration": "03:56"
@@ -2253,7 +2269,7 @@
             {
                 "title": "爱情讯息",
                 "artist": "郭静",
-                "cover": "https://p2.music.126.net/-ccXZvLLbvLQc99YEbylUA==/109951171316025348.jpg",
+                "cover": "https://p1.music.126.net/-ccXZvLLbvLQc99YEbylUA==/109951171316025348.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=233888",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=233888",
                 "duration": "04:40"
@@ -2261,7 +2277,7 @@
             {
                 "title": "遇见",
                 "artist": "孙燕姿",
-                "cover": "https://p2.music.126.net/KZ0VfIoFYsxpjz9sTQuLVQ==/17687843556430013.jpg",
+                "cover": "https://p1.music.126.net/KZ0VfIoFYsxpjz9sTQuLVQ==/17687843556430013.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=454828887",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=454828887",
                 "duration": "03:29"
@@ -2269,7 +2285,7 @@
             {
                 "title": "我怀念的",
                 "artist": "孙燕姿",
-                "cover": "https://p2.music.126.net/wF25xzePLml5EGUWM2eInw==/109951173219336672.jpg",
+                "cover": "https://p1.music.126.net/wF25xzePLml5EGUWM2eInw==/109951173219336672.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=287063",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=287063",
                 "duration": "04:49"
@@ -2277,7 +2293,7 @@
             {
                 "title": "Call of Silence",
                 "artist": "澤野弘之 / R!N/Gemie",
-                "cover": "https://p2.music.126.net/nRuQt_bbbiQ70CxwXUHXOQ==/109951163597044887.jpg",
+                "cover": "https://p1.music.126.net/nRuQt_bbbiQ70CxwXUHXOQ==/109951163597044887.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=482636090",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=482636090",
                 "duration": "02:58"
@@ -2285,7 +2301,7 @@
             {
                 "title": "可惜没如果",
                 "artist": "林俊杰",
-                "cover": "https://p2.music.126.net/2e__sKuIQsTSVVGr5Hk1FA==/109951170313536564.jpg",
+                "cover": "https://p1.music.126.net/2e__sKuIQsTSVVGr5Hk1FA==/109951170313536564.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=29814898",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=29814898",
                 "duration": "04:58"
@@ -2293,7 +2309,7 @@
             {
                 "title": "恋人",
                 "artist": "李荣浩",
-                "cover": "https://p2.music.126.net/0bk3Iqe2OZGBH2Iuyx7RzA==/109951170045577565.jpg",
+                "cover": "https://p1.music.126.net/0bk3Iqe2OZGBH2Iuyx7RzA==/109951170045577565.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2600493765",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2600493765",
                 "duration": "04:35"
@@ -2301,7 +2317,7 @@
             {
                 "title": "HIS SMILE",
                 "artist": "麗美",
-                "cover": "https://p2.music.126.net/k1w34BBPp23lXyijkMPqLQ==/109951170456532964.jpg",
+                "cover": "https://p1.music.126.net/k1w34BBPp23lXyijkMPqLQ==/109951170456532964.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=22712631",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=22712631",
                 "duration": "04:56"
@@ -2309,7 +2325,7 @@
             {
                 "title": "特别的人",
                 "artist": "方大同",
-                "cover": "https://p2.music.126.net/3Y0A55OzEnqKNiH5ODA54A==/109951172683046522.jpg",
+                "cover": "https://p1.music.126.net/3Y0A55OzEnqKNiH5ODA54A==/109951172683046522.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=28403111",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=28403111",
                 "duration": "04:19"
@@ -2317,7 +2333,7 @@
             {
                 "title": "心墙",
                 "artist": "郭静",
-                "cover": "https://p2.music.126.net/twmbtfq2KVsIwmpJ8aTfRQ==/109951168105390425.jpg",
+                "cover": "https://p1.music.126.net/twmbtfq2KVsIwmpJ8aTfRQ==/109951168105390425.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=27671269",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=27671269",
                 "duration": "03:47"
@@ -2325,7 +2341,7 @@
             {
                 "title": "from the edge",
                 "artist": "FictionJunction / LiSA",
-                "cover": "https://p2.music.126.net/n_vw2vd7IFN2y_D7-RIH3Q==/109951171371865924.jpg",
+                "cover": "https://p1.music.126.net/n_vw2vd7IFN2y_D7-RIH3Q==/109951171371865924.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1388181876",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1388181876",
                 "duration": "04:38"
@@ -2333,7 +2349,7 @@
             {
                 "title": "残酷な夜に輝け - Shine in the Cruel Night",
                 "artist": "LiSA",
-                "cover": "https://p2.music.126.net/biQgZKsNO_Vh-FeuKXso6A==/109951171480745508.jpg",
+                "cover": "https://p1.music.126.net/biQgZKsNO_Vh-FeuKXso6A==/109951171480745508.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2727103261",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2727103261",
                 "duration": "06:23"
@@ -2341,7 +2357,7 @@
             {
                 "title": "紅蓮華",
                 "artist": "LiSA",
-                "cover": "https://p2.music.126.net/JvremjkFs3cvGOFTetujHg==/109951169169579096.jpg",
+                "cover": "https://p1.music.126.net/JvremjkFs3cvGOFTetujHg==/109951169169579096.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1375305989",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1375305989",
                 "duration": "03:56"
@@ -2349,7 +2365,7 @@
             {
                 "title": "太陽が昇らない世界 - A World Where the Sun Never Rises",
                 "artist": "Aimer",
-                "cover": "https://p2.music.126.net/gGaYHT571-HXXwoQKNbs3g==/109951171480735948.jpg",
+                "cover": "https://p1.music.126.net/gGaYHT571-HXXwoQKNbs3g==/109951171480735948.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2727103300",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2727103300",
                 "duration": "02:50"
@@ -2357,7 +2373,7 @@
             {
                 "title": "To the Infinity Castle - Muzan vs Hashira Theme (from \"Demon Slayer\") (Cover)",
                 "artist": "Diego Mitre",
-                "cover": "https://p2.music.126.net/3VXjKtTkaWmzOaGuaK0Xlg==/109951169741328857.jpg",
+                "cover": "https://p1.music.126.net/3VXjKtTkaWmzOaGuaK0Xlg==/109951169741328857.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2604036163",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2604036163",
                 "duration": "05:05"
@@ -2365,7 +2381,7 @@
             {
                 "title": "Style",
                 "artist": "Taylor Swift",
-                "cover": "https://p2.music.126.net/3KDqQ9XW2Khj5Ia4tRqAAw==/18771962022688349.jpg",
+                "cover": "https://p1.music.126.net/3KDqQ9XW2Khj5Ia4tRqAAw==/18771962022688349.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=29572502",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=29572502",
                 "duration": "03:51"
@@ -2373,7 +2389,7 @@
             {
                 "title": "One Last Kiss",
                 "artist": "宇多田ヒカル",
-                "cover": "https://p2.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg",
+                "cover": "https://p1.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1824020871",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1824020871",
                 "duration": "04:12"
@@ -2381,7 +2397,7 @@
             {
                 "title": "鳥の詩",
                 "artist": "Lia",
-                "cover": "https://p2.music.126.net/xzm2HOT5DpobOk73OhE9QQ==/109951170627348480.jpg",
+                "cover": "https://p1.music.126.net/xzm2HOT5DpobOk73OhE9QQ==/109951170627348480.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=28151022",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=28151022",
                 "duration": "06:09"
@@ -3675,7 +3691,7 @@
             {
                 "title": "寂寞留白",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/dEGpD8qCaA9URIEa5WEQSQ==/109951170330494512.jpg",
+                "cover": "https://p2.music.126.net/dEGpD8qCaA9URIEa5WEQSQ==/109951170330494512.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1892514735",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1892514735",
                 "duration": "04:22"
@@ -3683,7 +3699,7 @@
             {
                 "title": "从没去过巴塞隆纳",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
+                "cover": "https://p2.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1368754724",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1368754724",
                 "duration": "04:33"
@@ -3691,7 +3707,7 @@
             {
                 "title": "在未来的你跟我说声嗨",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/43RBalJqy0bzTVRh-vtYeQ==/109951167974941367.jpg",
+                "cover": "https://p2.music.126.net/43RBalJqy0bzTVRh-vtYeQ==/109951167974941367.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1990179959",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1990179959",
                 "duration": "04:31"
@@ -3699,7 +3715,7 @@
             {
                 "title": "倒带（Live版）",
                 "artist": "希林娜依高 / 告五人",
-                "cover": "https://p1.music.126.net/bxMKtc9vBLT-WFwuG0ya5A==/109951168667081237.jpg",
+                "cover": "https://p2.music.126.net/bxMKtc9vBLT-WFwuG0ya5A==/109951168667081237.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2054190758",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2054190758",
                 "duration": "04:08"
@@ -3707,7 +3723,7 @@
             {
                 "title": "如果我们不曾相遇 (Live版)",
                 "artist": "王源 / 告五人",
-                "cover": "https://p1.music.126.net/xjG5FWzssqblkqnrq1BQYA==/109951171361951004.jpg",
+                "cover": "https://p2.music.126.net/xjG5FWzssqblkqnrq1BQYA==/109951171361951004.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2719648966",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2719648966",
                 "duration": "02:47"
@@ -3715,7 +3731,7 @@
             {
                 "title": "又到天黑",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/POvc5YLqLHIwJ9jw1Hqizw==/109951168245195477.jpg",
+                "cover": "https://p2.music.126.net/POvc5YLqLHIwJ9jw1Hqizw==/109951168245195477.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2015647807",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2015647807",
                 "duration": "04:50"
@@ -3723,7 +3739,7 @@
             {
                 "title": "开往早晨的午夜 (Live版)",
                 "artist": "胡彦斌 / 告五人",
-                "cover": "https://p1.music.126.net/yG_0PsxZWDDXQ3p1JNUUHQ==/109951168692047003.jpg",
+                "cover": "https://p2.music.126.net/yG_0PsxZWDDXQ3p1JNUUHQ==/109951168692047003.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2057718119",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2057718119",
                 "duration": "04:50"
@@ -3731,7 +3747,7 @@
             {
                 "title": "夜里无星",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
+                "cover": "https://p2.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1368754722",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1368754722",
                 "duration": "05:28"
@@ -3739,7 +3755,7 @@
             {
                 "title": "同样一个你",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/5URIeP6GjMFg_hKhGloNTA==/109951165585701063.jpg",
+                "cover": "https://p2.music.126.net/5URIeP6GjMFg_hKhGloNTA==/109951165585701063.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1807796551",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1807796551",
                 "duration": "04:31"
@@ -3747,7 +3763,7 @@
             {
                 "title": "就说你想说的",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/TqXG5qUH4eydADCIj4a93Q==/109951170035412550.jpg",
+                "cover": "https://p2.music.126.net/TqXG5qUH4eydADCIj4a93Q==/109951170035412550.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2635596825",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2635596825",
                 "duration": "05:50"
@@ -3755,7 +3771,7 @@
             {
                 "title": "不具名的花",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
+                "cover": "https://p2.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1368754746",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1368754746",
                 "duration": "05:39"
@@ -3763,7 +3779,7 @@
             {
                 "title": "说我爱你的一百种方式",
                 "artist": "与少年他 / 告五人",
-                "cover": "https://p1.music.126.net/faUeDhtc9M79ztkHKD3QoQ==/109951164931040864.jpg",
+                "cover": "https://p2.music.126.net/faUeDhtc9M79ztkHKD3QoQ==/109951164931040864.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1442773498",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1442773498",
                 "duration": "04:31"
@@ -3771,7 +3787,7 @@
             {
                 "title": "爱 (Live版)",
                 "artist": "王赫野 / 告五人",
-                "cover": "https://p1.music.126.net/9c8-dJORfACNw1HpFIK5Qg==/109951171331630100.jpg",
+                "cover": "https://p2.music.126.net/9c8-dJORfACNw1HpFIK5Qg==/109951171331630100.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2717169746",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2717169746",
                 "duration": "03:39"
@@ -3779,7 +3795,7 @@
             {
                 "title": "我以为你不会出现",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/i928-hIdPinzbW1p00sThQ==/109951167429598505.jpg",
+                "cover": "https://p2.music.126.net/i928-hIdPinzbW1p00sThQ==/109951167429598505.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1948145018",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1948145018",
                 "duration": "05:46"
@@ -3787,7 +3803,7 @@
             {
                 "title": "女孩 (Live版)",
                 "artist": "告五人 / 吉克隽逸",
-                "cover": "https://p1.music.126.net/aSHcPfr8pHjF4bigM2PlEg==/109951168735281965.jpg",
+                "cover": "https://p2.music.126.net/aSHcPfr8pHjF4bigM2PlEg==/109951168735281965.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2063468929",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2063468929",
                 "duration": "05:42"
@@ -3795,7 +3811,7 @@
             {
                 "title": "将错就对",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
+                "cover": "https://p2.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2723327157",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2723327157",
                 "duration": "04:29"
@@ -3803,7 +3819,7 @@
             {
                 "title": "独角兽",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/hTfEeER_YfHLb_2RvtrXrQ==/109951168110801977.jpg",
+                "cover": "https://p2.music.126.net/hTfEeER_YfHLb_2RvtrXrQ==/109951168110801977.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=511920319",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=511920319",
                 "duration": "06:39"
@@ -3811,7 +3827,7 @@
             {
                 "title": "鹰",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
+                "cover": "https://p2.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2723327160",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2723327160",
                 "duration": "04:59"
@@ -3819,7 +3835,7 @@
             {
                 "title": "温蒂公主的侍卫+爱人错过 (Live版)",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/6kp_Q0ZeczFVI2GRRBiKTg==/109951168692019199.jpg",
+                "cover": "https://p2.music.126.net/6kp_Q0ZeczFVI2GRRBiKTg==/109951168692019199.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2057712997",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2057712997",
                 "duration": "08:54"
@@ -3827,7 +3843,7 @@
             {
                 "title": "在凌晨睡着的自己",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/2hpO_fHBK98PRs8H4h179Q==/109951168189459708.jpg",
+                "cover": "https://p2.music.126.net/2hpO_fHBK98PRs8H4h179Q==/109951168189459708.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2010289317",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2010289317",
                 "duration": "04:40"
@@ -3835,7 +3851,7 @@
             {
                 "title": "跳海",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
+                "cover": "https://p2.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1368754689",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1368754689",
                 "duration": "04:49"
@@ -3843,7 +3859,7 @@
             {
                 "title": "简答题",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
+                "cover": "https://p2.music.126.net/awJUvRnQYOjyoUJbzfL-Ig==/109951172190059964.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1368754754",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1368754754",
                 "duration": "02:58"
@@ -3851,7 +3867,7 @@
             {
                 "title": "不摇滚 (feat. 告五人)",
                 "artist": "八三夭 / 告五人",
-                "cover": "https://p1.music.126.net/NnNgJbwl3PeVcCyQVpoijA==/109951166459446375.jpg",
+                "cover": "https://p2.music.126.net/NnNgJbwl3PeVcCyQVpoijA==/109951166459446375.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=1881684470",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=1881684470",
                 "duration": "04:51"
@@ -3859,7 +3875,7 @@
             {
                 "title": "远距离恋爱",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/PgcIr7Vv7J4N_OjYxQbo0g==/109951168306417191.jpg",
+                "cover": "https://p2.music.126.net/PgcIr7Vv7J4N_OjYxQbo0g==/109951168306417191.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2022072827",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2022072827",
                 "duration": "05:12"
@@ -3867,7 +3883,7 @@
             {
                 "title": "知足",
                 "artist": "五月天 / 告五人",
-                "cover": "https://p1.music.126.net/7rWFdO3eiw4NsyYbmMyjsw==/109951168536167356.jpg",
+                "cover": "https://p2.music.126.net/7rWFdO3eiw4NsyYbmMyjsw==/109951168536167356.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2037926385",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2037926385",
                 "duration": "04:10"
@@ -3875,7 +3891,7 @@
             {
                 "title": "黑夜狂奔",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
+                "cover": "https://p2.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2723322998",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2723322998",
                 "duration": "05:20"
@@ -3883,7 +3899,7 @@
             {
                 "title": "夏天的海冬天的雪",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
+                "cover": "https://p2.music.126.net/HQTMgK76DUYVeSqD_8c_aA==/109951171415249187.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2723327162",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2723327162",
                 "duration": "03:40"
@@ -3891,7 +3907,7 @@
             {
                 "title": "我无法克制自己",
                 "artist": "告五人",
-                "cover": "https://p1.music.126.net/PgcIr7Vv7J4N_OjYxQbo0g==/109951168306417191.jpg",
+                "cover": "https://p2.music.126.net/PgcIr7Vv7J4N_OjYxQbo0g==/109951168306417191.jpg",
                 "url": "https://meting.mikus.ink/api?server=netease&type=url&id=2022069283",
                 "lrc": "https://meting.mikus.ink/api?server=netease&type=lrc&id=2022069283",
                 "duration": "05:08"
@@ -3908,6 +3924,6 @@
             }
         ]
     },
-    "_urlFingerprint": "19f77be8b0ec934a09970d7a9595f8b4db34e4c398ff38d193db0b1d0ae3106d",
+    "_urlFingerprint": "7a054bb3b761e36d230eb8801a6a7942c2016a909aa0c0f8bcbdf6b989d235e7",
     "_configFingerprint": "57d4d8259edf9a665a80dc8de2a6f9344ae069c016d0696c4bd28606266fc952"
 }
